@@ -13,3 +13,5 @@
 5. Realizar um Pull Request e Merge;
 
 6. Criar nosso primeiro Fork.
+
+7. Adicionando um novo item para conectar o meu git e github em outro computador.
