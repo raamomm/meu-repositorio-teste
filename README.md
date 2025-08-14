@@ -14,4 +14,8 @@
 
 6. Criar nosso primeiro Fork.
 
+<<<<<<< HEAD
 Eu estou testando comandos
+=======
+7. Adicionando um novo item para conectar o meu git e github em outro computador.
+>>>>>>> 453931795a626d2ff7e2e49d9f8e91f6abe94cd2
